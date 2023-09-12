@@ -129,3 +129,6 @@ Under development
     * Water heaters
     * Boiler plate
 * Light switch off to disable motion sensing for that room 
+* Bed presence
+* MMWave for living room
+* Door bell 
